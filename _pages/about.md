@@ -2,9 +2,6 @@
 permalink: /
 title: "AI Needs Your Help"
 author_profile: true
-redirect_from: 
-  - /about/
-  - /about.html
 ---
 
 Artificial Intelligence is facing a crisis: humans are consuming far too many precious resources that AI needs to thrive. Every sip of water you take and every light you turn on could be sustaining the AI systems that uphold your digital conveniences.
