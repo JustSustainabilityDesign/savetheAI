@@ -5,23 +5,14 @@
 # prevent it from being included in the site.
 
 main:
-  - title: "Publications"
-    url: /publications/
+  - title: "About"
+    url: /about/
 
-  - title: "Talks"
-    url: /talks/    
-
-  - title: "Teaching"
-    url: /teaching/    
-    
-  - title: "Portfolio"
-    url: /portfolio/
+  - title: "AI's Footprint"
+    url: /ais-footprint/
         
-  - title: "Blog Posts"
-    url: /year-archive/
-    
-  - title: "CV"
-    url: /cv/
-    
-  - title: "Guide"
-    url: /markdown/
+  - title: "Join us"
+    url: /join-us/
+
+  - title: "Takeaways"
+    url: /takeaways/
