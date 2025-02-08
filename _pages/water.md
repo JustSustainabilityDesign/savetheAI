@@ -13,6 +13,8 @@ The global AI demand in 2027 is projected to require 4.2 and 6.6. billion cubic 
 
 This hidden water cost comes from the infrastructure needed to power and cool AI systems and the manufacturing of chips and servers. What’s more, the water used often has to be drinking quality because impurities can damage the servers.[^2]
 
+<img src="/images/JSD_SaveTheAI_HeaderImage_Water.jpg" style="display: block; margin: auto;"/>
+
 ## How AI Uses Water
 Understanding AI’s water impact requires distinguishing between water withdrawal and water consumption.
 
