@@ -14,7 +14,7 @@ It’s important to remember that while the water or electricity consumption per
 **This should not be *your* responsibility.** The burden of reducing AI’s environment should not fall on individual users. Companies and policymakers must take responsibility for making decisions that prioritize environmental accountability.
 
 ## What's Next?
-Head over to the [Green Screen Coalition](https://greenscreen.network/en/blog/within-bounds-limiting-ai-environmental-impact/) to learn more about a current initiative to limit the climate impacts of technology. 
+Head over to the [Green Screen Coalition](https://greenscreen.network/en/blog/within-bounds-limiting-ai-environmental-impact/) to learn more about a current initiative to limit AI's climate impacts. 
 
 ## References
 [^1]: Islam, M., Ahmed, K., Xu, H., Tran, N., Quan, G., & Ren, S. (2016). Exploiting Spatio-Temporal Diversity for Water Saving in Geo-Distributed Data Centers. IEEE Transactions on Cloud Computing, PP, 1–1. https://doi.org/10.1109/TCC.2016.2535201 
