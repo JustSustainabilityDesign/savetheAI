@@ -89,10 +89,13 @@
     height: auto;
   }
 
-   @include breakpoint($large) {
-      padding: 5px;
-      border: 1px solid var(--global-border-color);
-    }
+   img {
+      max-width: 175px;
+      @include breakpoint($large) {
+         padding: 5px;
+         border: 1px solid var(--global-border-color);
+       }
+   }
 }
 
 .author__content {
