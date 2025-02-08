@@ -11,4 +11,4 @@ By connecting your thirst with a data center’s cooling system, we address what
 
 This satirical initiative is created by the [Just Sustainability Design Lab](https://justsustainabilitydesign.org/), a research group at the University of Toronto dedicated to designing information technology for sustainability and social justice.
 
-This is just the beginning. This website will expand as we uncover AI’s growing demands. 
+_Save the AI_ is just getting started: this website will expand as we uncover AI’s growing demands. 
