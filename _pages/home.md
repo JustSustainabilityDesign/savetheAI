@@ -16,7 +16,7 @@ Here’s what it takes to keep AI going:
 **Electricity:**
 - 2.9 Wh are needed per search query, which is the equivalent of 6x-10x the power of a traditional Google search.[^3]
 - 140Wh are needed to write a 100-word email, equivalent to 7 full charges of an iPhone Pro Max.[^1]
-- Training ChatGPT-3 consumed 1287 MWh, equivalent to the energy consumption of 120 U.S. homes.[^4] Read more about [AI’s electricity footprint](/electricity). 
+- Training ChatGPT-4 consumed over 50 GWh, 50x the amount it took to train its predecessor and equivalent to the yearly energy consumption of 6000 U.S. homes.[^4] Read more about [AI’s electricity footprint](/electricity). 
 
 How You Can Help
 ======
@@ -36,4 +36,4 @@ Ensure a future where AI prospers, [even if we don’t](https://savethe.ai/about
 
 [^3]: Luccioni, S., Trevelin, B., & Mitchell, M. (n.d.). The Environmental Impacts of AI -- Primer. Hugging Face. Retrieved September 5, 2024, from <https://huggingface.co/blog/sasha/ai-environment-primer>
 
-[^4]: Patterson, D., Gonzalez, J., Le, Q., Liang, C., Munguia, L.-M., Rothchild, D., So, D., Texier, M., & Dean, J. (2021). Carbon Emissions and Large Neural Network Training (No. arXiv:2104.10350). arXiv. <https://doi.org/10.48550/arXiv.2104.10350>
+[^4]: Cohen, A. (2025, May 24). AI Is Pushing The World Toward An Energy Crisis. Forbes. Retrieved February 7, 2025, from https://www.forbes.com/sites/arielcohen/2024/05/23/ai-is-pushing-the-world-towards-an-energy-crisis/ 
