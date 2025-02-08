@@ -3,7 +3,7 @@ permalink: /water/
 title: "AI's Hidden Water Footprint"
 author_profile: true
 ---
-Every time you use an AI chatbot like ChatGPT, it consumes water. Using ChatGPT’s latest model, GPT-4:<br>
+Every time you use an AI chatbot like ChatGPT, it consumes water. Using ChatGPT’s latest model, GPT-4:
 - Having it generate a **100-word email consumes about 500ml of water** (17 oz).[^1]
 - **10 to 50 queries consume about 2 litres** of water (½ gallon).[^2]
 
