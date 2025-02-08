@@ -6,8 +6,7 @@ author_profile: true
 Every time you use an AI chatbot like ChatGPT, it uses electricity: 
 - **2.9 Wh per search query**, which is the equivalent of 6x-10x the power of a traditional Google search.[^1]
 - **140 Wh of energy to generate a 100-word email**, equivalent to 7 full charges of an iPhone Pro Max.[^2]
-- 
-Additionally, **training ChatGPT-4 consumed over 50 GWh of electricity**, approximately 0.02% of the electricity the State of California generates in a year, and 50x the amount it took to train GPT-3.[^3]
+- Additionally, **training ChatGPT-4 consumed over 50 GWh of electricity**, approximately 0.02% of the electricity the State of California generates in a year, and 50x the amount it took to train GPT-3.[^3]
 
 The full extent of AI’s electricity consumption stems from a combination of model training, inference, hardware manufacturing, and data centre operations. 
 
