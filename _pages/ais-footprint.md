@@ -1,6 +1,5 @@
 ---
 permalink: /ais-footprint/
-title: "AI's Water and Electricity Footprints"
 author_profile: true
 ---
 # AI’s Hidden Water Footprint
@@ -47,7 +46,7 @@ Supply Chain Water for Manufacturing (Scope 3)
 
 [2] Li, P., Yang, J., Islam, M. A., & Ren, S. (2023). Making AI Less “Thirsty”: Uncovering and Addressing the Secret Water Footprint of AI Models (No. arXiv:2304.03271). arXiv. (https://doi.org/10.48550/arXiv.2304.03271)
 
-[3] Gabbott, M. (2024, November 26). Why We Don’t Know AI’s True Water Footprint | TechPolicy.Press. Tech Policy Press. (https://techpolicy.press/why-we-dont-know-ais-true-water-footprint) 
+[3] Gabbott, M. (2024, November 26). Why We Don’t Know AI’s True Water Footprint \| TechPolicy.Press. Tech Policy Press. (https://techpolicy.press/why-we-dont-know-ais-true-water-footprint) 
 
 [4] Green Screen Coalition, Green Web Foundation, Beyond Fossil Fuels, Aspiration, & critical infrastructure lab. (2025, February 5). Within Bounds: Limiting AI’s environmental impact. Green Screen Coalition. (https://greenscreen.network/en/blog/within-bounds-limiting-ai-environmental-impact/)
 
