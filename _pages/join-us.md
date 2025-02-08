@@ -5,7 +5,7 @@ author_profile: true
 ---
 This website is in the soft launch phase on occasion of the Paris AI summit. We are preparing for a full launch during February.
 
-**Please help spread the word**: Snap a photo of any posters and postcards you encounter and share it. Use #SavetheAI and tag us on [Bluesky](https://bsky.app/profile/savetheai.bsky.social), [Mastodon](https://mastodon.social/@savetheai)) or [Instagram](https://www.instagram.com/savetheai/) with @SavetheAI.
+**Please help spread the word**: Snap a photo of any posters and postcards you encounter and share it. Use #SavetheAI and tag us on [Bluesky](https://bsky.app/profile/savetheai.bsky.social), [Mastodon](https://mastodon.social/@savetheai) and [Instagram](https://www.instagram.com/savetheai/) with @SavetheAI.
 
 **Come back for more: This website is growing.** Want to hear about saving air, jobs, gas and coal for AI? We are working on it! Want to contribute? Please reach out on social media or [email](mailto:savetheainow@proton.me).
 
