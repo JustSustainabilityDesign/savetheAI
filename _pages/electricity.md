@@ -5,9 +5,9 @@ author_profile: true
 ---
 Every time you use an AI chatbot like ChatGPT, it uses electricity: 
 - **2.9 Wh per search query**, which is the equivalent of 6x-10x the power of a traditional Google search.[^1]
-- **140Wh of energy to write a 100-word email**, equivalent to 7 full charges of an iPhone Pro Max.[^2]
+- **140 Wh of energy to generate a 100-word email**, equivalent to 7 full charges of an iPhone Pro Max.[^2]
 - 
-Additionally, **training ChatGPT-4 consumed over 50 GWh of electricity**, approximately 0.02% of the electricity California generates in a year, and 50x the amount it took to train GPT-3.[^3]
+Additionally, **training ChatGPT-4 consumed over 50 GWh of electricity**, approximately 0.02% of the electricity the State of California generates in a year, and 50x the amount it took to train GPT-3.[^3]
 
 The full extent of AI’s electricity consumption stems from a combination of model training, inference, hardware manufacturing, and data centre operations. 
 
@@ -20,7 +20,7 @@ AI depends on vast amounts of energy to function, primarily through **large-scal
 
 ## AI’s Growing Energy Demand
 The rapid expansion of AI has led to a surge in data centre construction and electricity consumption, raising concerns about the strain on global energy grids, as well as increasing demands on air, water, labour, fossil fuels, and other critical resources. While AI’s energy footprint continues to grow, long-term concerns include:
-- **Straining power grids.** The increased electricity demands of AI are raising concerns about whether energy supply can keep pace. For example, a single Meta data centre in Iowa consumes as much electricity annually as 7 million laptops running 8 hours a day.[^4] Further, data centres in the US used about 4.4% of the nation’s power in 2023, and could increase to as much as 12% of US power by 2028.[^5] This rapid increase raises concerns over power grid stability, potentially affecting a wide range of services– including the ability to power your home.[^6]
+- **Straining power grids.** The increased electricity demands of AI are raising concerns about whether energy supply can keep pace. For example, a single Meta data centre in Iowa consumes as much electricity annually as 7 million laptops running for 8 hours a day.[^4] Further, data centres in the US used about 4.4% of the nation’s power in 2023, and could increase to as much as 12% of US power by 2028.[^5] This rapid increase raises concerns over power grid stability, potentially affecting a wide range of services – including the ability to power your home.[^6]
 - **Increased fossil fuel use.** The high electricity demands of AI-driven data centres are delaying the retirement of coal plants and driving a resurgence in fossil fuel power generation. Coal plants that were scheduled for closure are being kept online to support the power needs of AI infrastructure.[^4]
 
 **For more insights, check out our [Takeaways](https://savethe.ai/takeaways/) page.**
