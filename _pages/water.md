@@ -37,7 +37,7 @@ Supply Chain Water for Manufacturing (Scope 3)
 ## Key Challenges
 **Lack of reporting:** There is no requirement for data centres to report how much water they are consuming.[^3][^4]
 
-**“Water positive” initiatives:** Companies such as Google and Microsoft claim to be “water positive” by 2030, pledging to return more water than they consume.[^5][^6] However, there is little accountability or evidence to support these promises, and water replenishment often happens in different locations than where it was extracted, leaving areas experiencing water stress unresolved.[^2]
+**“Water positive” initiatives:** Companies such as Google and Microsoft claim to be “water positive” by 2030, pledging to return more water than they consume.[^5] [^6] However, there is little accountability or evidence to support these promises, and water replenishment often happens in different locations than where it was extracted, leaving areas experiencing water stress unresolved.[^2]
 
 **Carbon-water tradeoffs:** Efforts to reduce carbon emissions are often in conflict with reducing water use.[^7] For instance, solar energy in hot periods can increase water needs. 
 
