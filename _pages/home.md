@@ -9,14 +9,14 @@ Artificial Intelligence is facing a crisis: humans are consuming far too many pr
 Here’s what it takes to keep AI going:
 ======
 **Water:**
-- Writing a 100-word email consumes about 500ml of water (17 oz) [^1].
-- 2 litres are needed for every 10 to 50 queries you make [^2].
-- Training a model like ChatGPT-3 can consume 5.4 million litres of water [^2]. Read more about AI’s water footprint.
+- Writing a 100-word email consumes about 500ml of water (17 oz).[^1]
+- 2 litres are needed for every 10 to 50 queries you make.[^2]
+- Training a model like ChatGPT-3 can consume 5.4 million litres of water.[^2] Read more about [AI’s water footprint](/water).
 
 **Electricity:**
-- 2.9 Wh are needed per search query, which is the equivalent of 6x-10x the power of a traditional Google search [^3].
-- 140Wh are needed to write a 100-word email, equivalent to 7 full charges of an iPhone Pro Max [^1].
-- Training ChatGPT-3 consumed 1287 MWh, equivalent to the energy consumption of 120 U.S. homes [^4]. Read more about AI’s electricity footprint. 
+- 2.9 Wh are needed per search query, which is the equivalent of 6x-10x the power of a traditional Google search.[^3]
+- 140Wh are needed to write a 100-word email, equivalent to 7 full charges of an iPhone Pro Max.[^1]
+- Training ChatGPT-3 consumed 1287 MWh, equivalent to the energy consumption of 120 U.S. homes.[^4] Read more about [AI’s electricity footprint](/electricity). 
 
 How You Can Help
 ======
