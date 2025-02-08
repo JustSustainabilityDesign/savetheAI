@@ -41,7 +41,9 @@ Supply Chain Water for Manufacturing (Scope 3)
 
 **Carbon-water tradeoffs:** Efforts to reduce carbon emissions are often in conflict with reducing water use [7]. For instance, solar energy in hot periods can increase water needs. 
 
-## Water References
+**For more insights, check out our [Takeaways](https://savethe.ai/takeaways/) page.**
+
+## References
 [1] Sellman, M., & Vaughan, A. (2024, October 4). ‘Thirsty’ ChatGPT uses four times more water than previously thought. The Times. (https://www.thetimes.com/uk/technology-uk/article/thirsty-chatgpt-uses-four-times-more-water-than-previously-thought-bc0pqswdr)
 
 [2] Li, P., Yang, J., Islam, M. A., & Ren, S. (2023). Making AI Less “Thirsty”: Uncovering and Addressing the Secret Water Footprint of AI Models (No. arXiv:2304.03271). arXiv. (https://doi.org/10.48550/arXiv.2304.03271)
