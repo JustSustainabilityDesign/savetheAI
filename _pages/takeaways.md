@@ -11,7 +11,7 @@ We affirm the five demands of the Green Screen Coalition’s statement [Within B
 
 It’s important to remember that while the water or electricity consumption per request may decrease in the future, the total water and energy consumption is likely to rise further as a result of the **growing demand for AI services and the increasing scale of AI applications.**
 
-**This should not be your responsibility.** The burden of reducing AI’s environment should not fall on individual users. Companies and policymakers must take responsibility for making decisions that prioritize environmental accountability.
+**This should not be *your* responsibility.** The burden of reducing AI’s environment should not fall on individual users. Companies and policymakers must take responsibility for making decisions that prioritize environmental accountability.
 
 ## What's Next?
 Head over to the [Green Screen Coalition](https://greenscreen.network/en/blog/within-bounds-limiting-ai-environmental-impact/) to learn more about a current initiative to limit the climate impacts of technology. 
