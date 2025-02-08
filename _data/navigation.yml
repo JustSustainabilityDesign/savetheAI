@@ -8,8 +8,11 @@ main:
   - title: "About"
     url: /about/
 
-  - title: "AI's Footprint"
-    url: /ais-footprint/
+  - title: "Water"
+    url: /water/
+
+  - title: "Electricity"
+    url: /electricity/
 
   - title: "Takeaways"
     url: /takeaways/
