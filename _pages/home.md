@@ -24,7 +24,7 @@ How You Can Help
 
 **Raise awareness:** [join our campaign](https://savethe.ai/join-us) to stop reckless human consumption and put AI first.
 
-Ensure a future where AI prospers, even if we don’t.
+Ensure a future where AI prospers, [even if we don’t](https://savethe.ai/about/).
 
 #SavetheAI
 
