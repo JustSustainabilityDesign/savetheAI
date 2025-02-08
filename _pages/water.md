@@ -4,7 +4,7 @@ title: "AI's Hidden Water Footprint"
 author_profile: true
 ---
 Every time you use an AI chatbot like ChatGPT, it consumes water. Using ChatGPT’s latest model, GPT-4: 
-- Writing a **100-word email consumes about 500ml of water** (17 oz) [[1]]([1]).
+- Writing a **100-word email consumes about 500ml of water** (17 oz) [^1].
 - **10 to 50 queries consume about 2 litres** of water [2].
 
 Additionally, training a model like GPT-3 in Microsoft’s US data centres can consume 5.4 million litres of water [2]. Given that the latest model GPT-4 is larger and more advanced, it’s likely that its numbers are even higher.
@@ -44,7 +44,7 @@ Supply Chain Water for Manufacturing (Scope 3)
 **For more insights, check out our [Takeaways](https://savethe.ai/takeaways/) page.**
 
 ## References
-<a name="1">[1]</a> Sellman, M., & Vaughan, A. (2024, October 4). ‘Thirsty’ ChatGPT uses four times more water than previously thought. The Times. (https://www.thetimes.com/uk/technology-uk/article/thirsty-chatgpt-uses-four-times-more-water-than-previously-thought-bc0pqswdr)
+[^1]: Sellman, M., & Vaughan, A. (2024, October 4). ‘Thirsty’ ChatGPT uses four times more water than previously thought. The Times. (https://www.thetimes.com/uk/technology-uk/article/thirsty-chatgpt-uses-four-times-more-water-than-previously-thought-bc0pqswdr)
 
 [2] Li, P., Yang, J., Islam, M. A., & Ren, S. (2023). Making AI Less “Thirsty”: Uncovering and Addressing the Secret Water Footprint of AI Models (No. arXiv:2304.03271). arXiv. (https://doi.org/10.48550/arXiv.2304.03271)
 
