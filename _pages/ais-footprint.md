@@ -4,7 +4,6 @@ title: "AI's Footprint"
 author_profile: true
 ---
 ## AI’s Hidden Water Footprint
-======
 Every time you use an AI chatbot like ChatGPT, it consumes water. Using ChatGPT’s latest model, GPT-4: 
 - Writing a 100-word email consumes about 500ml of water (17 oz) [1].
 - 10 to 50 queries consume about 2 litres of water [2].
@@ -16,7 +15,6 @@ The global AI demand in 2027 is projected to require 4.2 and 6.6. billion cubic 
 This hidden water cost comes from the infrastructure needed to power and cool AI systems and the manufacturing of chips and servers. What’s more, the water used often has to be drinking quality because impurities can damage the servers [2].
 
 ### How AI Uses Water
-======
 Understanding AI’s water impact requires distinguishing between water withdrawal and water consumption.
 
 **Water withdrawal:** Freshwater taken from the ground or surface water sources and used temporarily or permanently for industrial purposes. 
@@ -38,7 +36,6 @@ Supply Chain Water for Manufacturing (Scope 3)
 - For example, **Apple reports that 99% of its water footprint comes from its supply chain** [2].
 
 ### Key Challenges
-======
 **Lack of reporting:** There is no requirement for data centres to report how much water they are consuming [3] [4].
 
 **“Water positive” initiatives:** Companies such as Google and Microsoft claim to be “water positive” by 2030, pledging to return more water than they consume [5] [6]. However, there is little accountability or evidence to support these promises, and water replenishment often happens in different locations than where it was extracted, leaving areas experiencing water stress unresolved [2].
@@ -47,8 +44,7 @@ Supply Chain Water for Manufacturing (Scope 3)
 
 **For more insights, check out our [Takeaways](https://savethe.ai/takeaways/) page.**
 
-**References**
-======
+### References
 [1] Sellman, M., & Vaughan, A. (2024, October 4). ‘Thirsty’ ChatGPT uses four times more water than previously thought. The Times. (https://www.thetimes.com/uk/technology-uk/article/thirsty-chatgpt-uses-four-times-more-water-than-previously-thought-bc0pqswdr)
 [2] Li, P., Yang, J., Islam, M. A., & Ren, S. (2023). Making AI Less “Thirsty”: Uncovering and Addressing the Secret Water Footprint of AI Models (No. arXiv:2304.03271). arXiv. (https://doi.org/10.48550/arXiv.2304.03271)
 [3] Gabbott, M. (2024, November 26). Why We Don’t Know AI’s True Water Footprint | TechPolicy.Press. Tech Policy Press. (https://techpolicy.press/why-we-dont-know-ais-true-water-footprint) 
