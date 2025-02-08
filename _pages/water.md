@@ -46,14 +46,14 @@ Supply Chain Water for Manufacturing (Scope 3)
 ## References
 [^1]: Sellman, M., & Vaughan, A. (2024, October 4). ‘Thirsty’ ChatGPT uses four times more water than previously thought. The Times. (https://www.thetimes.com/uk/technology-uk/article/thirsty-chatgpt-uses-four-times-more-water-than-previously-thought-bc0pqswdr)
 
-[^2] Li, P., Yang, J., Islam, M. A., & Ren, S. (2023). Making AI Less “Thirsty”: Uncovering and Addressing the Secret Water Footprint of AI Models (No. arXiv:2304.03271). arXiv. (https://doi.org/10.48550/arXiv.2304.03271)
+[^2]: Li, P., Yang, J., Islam, M. A., & Ren, S. (2023). Making AI Less “Thirsty”: Uncovering and Addressing the Secret Water Footprint of AI Models (No. arXiv:2304.03271). arXiv. (https://doi.org/10.48550/arXiv.2304.03271)
 
-[^3] Gabbott, M. (2024, November 26). Why We Don’t Know AI’s True Water Footprint \| TechPolicy.Press. Tech Policy Press. (https://techpolicy.press/why-we-dont-know-ais-true-water-footprint) 
+[^3]: Gabbott, M. (2024, November 26). Why We Don’t Know AI’s True Water Footprint \| TechPolicy.Press. Tech Policy Press. (https://techpolicy.press/why-we-dont-know-ais-true-water-footprint) 
 
-[^4] Green Screen Coalition, Green Web Foundation, Beyond Fossil Fuels, Aspiration, & critical infrastructure lab. (2025, February 5). Within Bounds: Limiting AI’s environmental impact. Green Screen Coalition. (https://greenscreen.network/en/blog/within-bounds-limiting-ai-environmental-impact/)
+[^4]: Green Screen Coalition, Green Web Foundation, Beyond Fossil Fuels, Aspiration, & critical infrastructure lab. (2025, February 5). Within Bounds: Limiting AI’s environmental impact. Green Screen Coalition. (https://greenscreen.network/en/blog/within-bounds-limiting-ai-environmental-impact/)
 
-[^5] Google. Environmental Report. (https://sustainability.google/reports/), 2024.
+[^5]: Google. Environmental Report. (https://sustainability.google/reports/), 2024.
 
-[^6] Microsoft. Environmental Sustainability Report. (https://www.microsoft.com/en-us/corporate-responsibility/sustainability/report), 2024.
+[^6]: Microsoft. Environmental Sustainability Report. (https://www.microsoft.com/en-us/corporate-responsibility/sustainability/report), 2024.
 
-[^7] Islam, M., Ahmed, K., Xu, H., Tran, N., Quan, G., & Ren, S. (2016). Exploiting Spatio-Temporal Diversity for Water Saving in Geo-Distributed Data Centers. IEEE Transactions on Cloud Computing, PP, 1–1. (https://doi.org/10.1109/TCC.2016.2535201) 
+[^7]: Islam, M., Ahmed, K., Xu, H., Tran, N., Quan, G., & Ren, S. (2016). Exploiting Spatio-Temporal Diversity for Water Saving in Geo-Distributed Data Centers. IEEE Transactions on Cloud Computing, PP, 1–1. (https://doi.org/10.1109/TCC.2016.2535201) 
