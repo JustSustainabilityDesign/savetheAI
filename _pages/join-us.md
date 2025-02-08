@@ -7,6 +7,7 @@ Want to take action? Here’s how you can help spread the word:
 
 ### Snap a photo and tag us on Bluesky / Mastodon / Instagram with @SavetheAI and #SavetheAI
 
+
 Come back for more: This website is growing
 
 Want to hear about saving air, jobs, gas and coal for AI? We are working on it! 
