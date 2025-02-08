@@ -10,9 +10,9 @@ main:
 
   - title: "AI's Footprint"
     url: /ais-footprint/
-        
-  - title: "Join us"
-    url: /join-us/
 
   - title: "Takeaways"
     url: /takeaways/
+        
+  - title: "Join us"
+    url: /join-us/
