@@ -3,14 +3,14 @@ permalink: /join-us/
 title: "Join us"
 author_profile: true
 ---
-Want to take action? Here’s how you can help spread the word:
+This website is in the soft launch phase on occasion of the Paris AI summit. We are preparing for a full launch during February.
 
-**Snap a photo and tag us on Bluesky / Mastodon / Instagram with @SavetheAI and #SavetheAI**
+Please help spread the word: Snap a photo of any posters and postcards you encounter and share it. Tag us on Bluesky / Mastodon / Instagram with @SavetheAI and #SavetheAI.
 
-Come back for more: This website is growing
+**Come back for more: This website is growing.**
 
 Want to hear about saving air, jobs, gas and coal for AI? We are working on it! 
-Want to contribute? Please reach out!
+Want to contribute? Please reach out on social media or [email](mailto:savetheainow@proton.me).
 
 **Support civil society organizations aiming to limit the impact of AI**
 
