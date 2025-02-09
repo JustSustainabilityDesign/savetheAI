@@ -2,6 +2,7 @@
 permalink: /join-us/
 title: "Join us"
 author_profile: true
+image: '../images/general-logo.png'
 ---
 This website is in the soft launch phase on occasion of the [Paris AI Action Summit](https://www.elysee.fr/en/sommet-pour-l-action-sur-l-ia) (6–11 February 2025). We are preparing for a full launch this month.
 
