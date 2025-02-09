@@ -1,6 +1,6 @@
 ---
 permalink: /about/
-title: "About SavetheAI"
+title: "About Us"
 author_profile: true
 image: '../images/general-logo.png'
 ---
