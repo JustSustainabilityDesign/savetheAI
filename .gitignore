@@ -14,3 +14,9 @@ package-lock.json
 
 # Ignore DS Store
 .DS_Store
+
+# Ignore vendor folder
+vendor/
+
+# Ignore .bundle
+.bundle/
