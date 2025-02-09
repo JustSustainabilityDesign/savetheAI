@@ -1,6 +1,6 @@
 ---
 permalink: /about/
-title: "About SavetheAI"
+title: "About Us"
 author_profile: true
 ---
 You may have found this website thanks to a poster or a social media post asking you to prioritize your AI's needs for water and elecricity over your own. **But do we actually want you to sit thirstily in the dark with an empty phone battery? Of course not.** 
