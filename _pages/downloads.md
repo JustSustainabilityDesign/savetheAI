@@ -23,8 +23,9 @@ The licensor cannot revoke these freedoms as long as you follow the license term
 
 ### Postcards
 The special 'limited edition' Paris postcards are available here as PDF downloads starting tomorrow:
-- the English edition saying 'L'eau or AI?'
-- the French edition saying 'L'eau ou l'AI?'
+- [the English edition saying 'L'eau or AI](https://github.com/user-attachments/files/18727189/SavetheAI-postcard-v1.5b.pdf)
+- [the French edition saying 'L'eau ou l'AI?'](https://github.com/user-attachments/files/18727201/SavetheAI-postcard-v1.5a.pdf)
+
 
 ### Posters
 Coming soon!
