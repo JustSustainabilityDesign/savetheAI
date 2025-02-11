@@ -4,7 +4,7 @@
 		{
 			"src": "/images/favicon.icns",
 			"sizes": "512x512",
-			"type": "image/icns"
+			"type": "image/x-icon"
 		}
 	]
 }
