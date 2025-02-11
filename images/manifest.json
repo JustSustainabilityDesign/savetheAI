@@ -1,0 +1,10 @@
+{
+	"name": "OOjs UI icon academic-progressive",
+	"icons": [
+		{
+			"src": "/images/favicon.icns",
+			"sizes": "512x512",
+			"type": "image/icns"
+		}
+	]
+}
