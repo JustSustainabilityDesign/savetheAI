@@ -28,7 +28,8 @@ The special 'limited edition' Paris postcards are available here as PDF download
 
 
 ### Posters
-Coming soon!
+Download and print these posters for sharing in your community:
+- [English "Are You Thirsty?" poster] (https://github.com/JustSustainabilityDesign/savetheAI/blob/b0206e4d63df9778d45b4cade272987f93904dd8/images/SavetheAI-posters-v3-EN.pdf)
 
 ### Stickers
 Coming soon!
