@@ -24,7 +24,7 @@ The licensor cannot revoke these freedoms as long as you follow the license term
 ### Postcards
 The special 'limited edition' Paris postcards are available here as PDF downloads:
 - ['L'eau or AI' English cover](https://github.com/user-attachments/files/18727189/SavetheAI-postcard-v1.5b.pdf)
-- ['L'eau ou l'IA?'French cover](https://github.com/user-attachments/files/18727201/SavetheAI-postcard-v1.5a.pdf)
+- ['L'eau ou l'IA?' French cover](https://github.com/user-attachments/files/18727201/SavetheAI-postcard-v1.5a.pdf)
 
 
 ### Posters
