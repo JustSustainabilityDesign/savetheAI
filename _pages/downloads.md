@@ -28,10 +28,7 @@ The special 'limited edition' Paris postcards are available here as PDF download
 
 
 ### Posters
-Download and print these posters to share in your community:
-- [Water usage "Are You Thirsty" poster in English](https://github.com/user-attachments/files/18802495/SavetheAI-posters-v3-EN.pdf)
-- [Water usage "Are you Thirsty" with blanks. Follow comments in the PDF to add translations in your language](https://github.com/user-attachments/files/18802504/SavetheAI-posters-v3-blank.pdf)
-- more languages coming soon!
+You will soon be able to download and print these posters to share in your community:
 
 
 ### Stickers
