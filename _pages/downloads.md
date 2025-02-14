@@ -23,13 +23,16 @@ The licensor cannot revoke these freedoms as long as you follow the license term
 
 ### Postcards
 The special 'limited edition' Paris postcards are available here as PDF downloads:
-- [the English edition saying 'L'eau or AI](https://github.com/user-attachments/files/18727189/SavetheAI-postcard-v1.5b.pdf)
-- [the French edition saying 'L'eau ou l'IA?'](https://github.com/user-attachments/files/18727201/SavetheAI-postcard-v1.5a.pdf)
+- ['L'eau or AI' English cover](https://github.com/user-attachments/files/18727189/SavetheAI-postcard-v1.5b.pdf)
+- ['L'eau ou l'IA?'French cover](https://github.com/user-attachments/files/18727201/SavetheAI-postcard-v1.5a.pdf)
 
 
 ### Posters
 Download and print these posters to share in your community:
-- (https://github.com/JustSustainabilityDesign/savetheAI/blob/b0206e4d63df9778d45b4cade272987f93904dd8/images/SavetheAI-posters-v3-EN.pdf)
+- [Water usage "Are You Thirsty" poster in English](https://github.com/user-attachments/files/18802495/SavetheAI-posters-v3-EN.pdf)
+- [Water usage "Are you Thirsty" with blanks. Follow comments in the PDF to add translations in your language](https://github.com/user-attachments/files/18802504/SavetheAI-posters-v3-blank.pdf)
+- more languages coming soon!
+
 
 ### Stickers
 Coming soon!
