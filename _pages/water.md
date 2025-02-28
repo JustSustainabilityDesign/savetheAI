@@ -49,6 +49,8 @@ Supply Chain Water for Manufacturing (Scope 3)
 **For more insights, check out our [Takeaways](https://savethe.ai/takeaways/) page.**
 
 **To print your own postcards for distribution, click [here](https://github.com/user-attachments/files/18722946/SavetheAI-postcard-v1.5b.pdf).**
+
+**To download and print your own posters, check out our [Downloads](https://savethe.ai/downloads/) page.**
 ## References
 [^1]: Sellman, M., & Vaughan, A. (2024, October 4). ‘Thirsty’ ChatGPT uses four times more water than previously thought. The Times. (https://www.thetimes.com/uk/technology-uk/article/thirsty-chatgpt-uses-four-times-more-water-than-previously-thought-bc0pqswdr)
 
