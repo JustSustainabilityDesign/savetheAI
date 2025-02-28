@@ -1,9 +1,8 @@
-name: Scrape Talk Locations
+name: Scrape SaveAI Locations
 
 on:
   push:
     paths:
-      - 'talkmap.ipynb'
       - 'locations.md'
       - 'world_map.ipynb'
 
