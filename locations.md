@@ -28,3 +28,4 @@ Location: Vienna, AT
 Location: Tehran, IR
 Location: Istanbul, TR
 Location: Munich, DE
+Location: Scarborough, CA
