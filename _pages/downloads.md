@@ -32,4 +32,4 @@ You will soon be able to download and print these posters to share in your commu
 
 
 ### Stickers
-Coming soon!
+You can get a printer-ready sticker [here](downloads/savetheAI-sticker.png).
