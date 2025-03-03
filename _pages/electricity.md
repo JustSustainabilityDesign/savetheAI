@@ -28,7 +28,7 @@ The rapid expansion of AI has led to a surge in data centre construction and ele
 ## References
 [^1]: Luccioni, S., Trevelin, B., & Mitchell, M. (2024, September 3). The Environmental Impacts of AI -- Primer. Hugging Face. Retrieved September 5, 2024, from https://huggingface.co/blog/sasha/ai-environment-primer 
 
-[^2]: Sellman, M., & Vaughan, A. (2024, October 4). ‘Thirsty’ ChatGPT uses four times more water than previously thought. The Times. https://www.thetimes.com/uk/technology-uk/article/thirsty-chatgpt-uses-four-times-more-water-than-previously-thought-bc0pqswdr
+[^2]: Verma, P., & Tan, S. (2024, September 18). A bottle of water per email: The hidden environmental costs of using AI chatbots. *Washington Post.* (https://archive.is/8xeFT)
 
 [^3]: Cohen, A. (2025, May 24). AI Is Pushing The World Toward An Energy Crisis. Forbes. Retrieved February 7, 2025, from https://www.forbes.com/sites/arielcohen/2024/05/23/ai-is-pushing-the-world-towards-an-energy-crisis/ 
 
