@@ -21,13 +21,13 @@ The licensor cannot revoke these freedoms as long as you follow the license term
 
 ## Downloads
 
-### Postcards
+### <a id="postcards"/>Postcards
 The special 'limited edition' Paris postcards are available here as PDF downloads:
 - ['L'eau or AI' English cover](https://github.com/user-attachments/files/18727189/SavetheAI-postcard-v1.5b.pdf)
 - ['L'eau ou l'IA?' French cover](https://github.com/user-attachments/files/18727201/SavetheAI-postcard-v1.5a.pdf)
 
 
-### Posters
+### <a id="posters"/>Posters
 Posters on AI's water footprint are available here as PDF downloads, in several languages, to share in your community:
 - [Arabic]({{ https://savethe.ai/ }}/downloads/water_posters/SavetheAI-Water-posters-AR.pdf)
 - [English]({{ https://savethe.ai/ }}/downloads/water_posters/SavetheAI-Water-posters-EN.pdf)
@@ -44,5 +44,5 @@ here as they are created.)
 
 Stay tuned for more poster content coming soon and please find some instructions to help you on putting up posters and sharing them on social media [here](https://savethe.ai/join-us/). 
 
-### Stickers
+### <a id="stickers"/>Stickers
 You can get a printer-ready sticker [here](/downloads/savetheAI-sticker.png).

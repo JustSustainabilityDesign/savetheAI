@@ -48,9 +48,9 @@ Supply Chain Water for Manufacturing (Scope 3)
 
 **For more insights, check out our [Takeaways](https://savethe.ai/takeaways/) page.**
 
-**To print your own postcards for distribution, click [here](https://github.com/user-attachments/files/18722946/SavetheAI-postcard-v1.5b.pdf).**
+**To print your own postcards for distribution, click [here](https://savethe.ai/downloads/#postcards).**
 
-**To download and print your own posters, check out our [Downloads](https://savethe.ai/downloads/) page.**
+**To download and print your own posters, check out our [Downloads](https://savethe.ai/downloads/#posters) page.**
 ## References
 [^1]: Verma, P., & Tan, S. (2024, September 18). A bottle of water per email: The hidden environmental costs of using AI chatbots. *Washington Post.* (https://archive.is/8xeFT)
 
