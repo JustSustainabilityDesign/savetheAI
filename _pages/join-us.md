@@ -4,7 +4,7 @@ title: "Join us"
 author_profile: true
 image: '../images/general-logo.png'
 ---
-This website is in the soft launch phase on occasion of the [Paris AI Action Summit](https://www.elysee.fr/en/sommet-pour-l-action-sur-l-ia) (6–11 February 2025). We are preparing for a full launch this month.
+We are now launched! Following a soft launch phase on occasion of the [Paris AI Action Summit](https://www.elysee.fr/en/sommet-pour-l-action-sur-l-ia) (6–11 February 2025).
 
 **Please help spread the word**: Snap a photo of any of our posters and postcards you encounter and share it. Use #SavetheAI and tag us on [Bluesky](https://bsky.app/profile/savetheai.bsky.social), [Mastodon](https://mastodon.social/@savetheai) and [Instagram](https://www.instagram.com/savetheai/) with @SavetheAI. We have created a share map [here](https://savethe.ai/locations).
 
