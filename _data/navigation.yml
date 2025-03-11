@@ -14,6 +14,9 @@ main:
   - title: "Electricity"
     url: /electricity/
 
+  - title: "Air"
+    url: /air/
+
   - title: "Takeaways"
     url: /takeaways/
         

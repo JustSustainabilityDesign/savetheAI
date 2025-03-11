@@ -1,7 +1,6 @@
 ---
 permalink: /
 title: "AI Needs Your Help"
-author_profile: true
 image: '../images/general-logo.png'
 ---
 

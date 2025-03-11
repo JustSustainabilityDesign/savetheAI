@@ -1,7 +1,6 @@
 ---
 permalink: /electricity/
 title: "AI's Electricity Footprint"
-author_profile: true
 image: '../images/electricity-logo.png'
 ---
 Every time you use an AI chatbot like ChatGPT, it uses electricity: 
