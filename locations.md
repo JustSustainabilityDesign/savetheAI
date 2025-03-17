@@ -1,4 +1,3 @@
-Location: Paris, FR
 Location: Toronto, CA
 Location: Montreal, CA
 Location: New York, NY, US
@@ -25,3 +24,10 @@ Location: Salzburg, AT
 Location: Vienna, AT
 Location: Tehran, IR
 Location: Istanbul, TR
+Location: Technical University of Munich, Munich, Germany
+Location: Arcisstraße 17, 80333 Munich, Germany
+Location: University of Sydney
+Location: RWTH Aachen University, Aachen, Germany
+Location: Wageningen, NL
+Special Location: Bourse du Travail, Paris, France, Event Title: AI Counter-Summit
+Special Location: Grand Palais, Paris, France, Event Title: Artificial Intelligence Action Summit
