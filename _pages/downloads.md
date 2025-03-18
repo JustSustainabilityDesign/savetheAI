@@ -27,7 +27,7 @@ The special 'limited edition' Paris postcards are available here as PDF download
 
 
 ### <a id="posters"/>Posters
-Posters on AI's water footprint are available here as PDF downloads, in several languages, to share in your community:
+Posters on AI's footprint are available here as PDF downloads, in several languages, to share in your community:
 
 | <img src="/images/SAVEtheAI logo-water.png" alt="water"> | <img id="electricity" src="/images/SAVEtheAI logo-electricity.png" alt="electricity"> |
 | :---: | :---: |
