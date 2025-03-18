@@ -28,18 +28,22 @@ The special 'limited edition' Paris postcards are available here as PDF download
 
 ### <a id="posters"/>Posters
 Posters on AI's water footprint are available here as PDF downloads, in several languages, to share in your community:
-- [Arabic]({{ https://savethe.ai/ }}/downloads/water_posters/SavetheAI-Water-posters-AR.pdf)
-- [English]({{ https://savethe.ai/ }}/downloads/water_posters/SavetheAI-Water-posters-EN.pdf)
-- [Farsi]({{ https://savethe.ai/ }}/downloads/water_posters/SavetheAI-Water-posters-Farsi.pdf)
-- [French - Swiss]({{ https://savethe.ai/ }}/downloads/water_posters/SavetheAI-Water-posters-FR.pdf)
-- [German]({{ https://savethe.ai/ }}/downloads/water_posters/SavetheAI-Water-posters-GER.pdf)
-- [Mandarin]({{ https://savethe.ai/ }}/downloads/water_posters/SavetheAI-Water-posters-MAN.pdf)
-- [Portuguese - Brazilian]({{ https://savethe.ai/ }}/downloads/water_posters/SavetheAI-Water-posters-PR.pdf)
-- [Spanish]({{ https://savethe.ai/ }}/downloads/water_posters/SavetheAI-Water-posters-SP.pdf)
-- [Turkish]({{ https://savethe.ai/ }}/downloads/water_posters/SavetheAI-Water-posters-TUR.pdf)
-- [Blank]({{ https://savethe.ai/ }}/downloads/water_posters/SavetheAI-Water-posters-blank.pdf) (Please use the blank version to translate the posters in a language not listed here. If you would like to contribute your poster translations, 
-please [share them back with us](https://savethe.ai/join-us/) – we will add additional language versions 
-here as they are created.)
+
+| <img src="/images/SAVEtheAI logo-water.png" alt="water"> | <img id="electricity" src="/images/SAVEtheAI logo-electricity.png" alt="electricity"> |
+| :---: | :---: |
+| [Arabic]({{ https://savethe.ai/ }}/downloads/water_posters/SavetheAI-Water-posters-AR.pdf) | | 
+| [English]({{ https://savethe.ai/ }}/downloads/water_posters/SavetheAI-Water-posters-EN.pdf) | |
+| [Farsi]({{ https://savethe.ai/ }}/downloads/water_posters/SavetheAI-Water-posters-Farsi.pdf) | |
+| [French - Swiss]({{ https://savethe.ai/ }}/downloads/water_posters/SavetheAI-Water-posters-FR.pdf) | |
+| [German]({{ https://savethe.ai/ }}/downloads/water_posters/SavetheAI-Water-posters-GER.pdf) | |
+| [Mandarin]({{ https://savethe.ai/ }}/downloads/water_posters/SavetheAI-Water-posters-MAN.pdf) | |
+| [Portuguese - Brazilian]({{ https://savethe.ai/ }}/downloads/water_posters/SavetheAI-Water-posters-PR.pdf) | |
+| [Spanish]({{ https://savethe.ai/ }}/downloads/water_posters/SavetheAI-Water-posters-SP.pdf) | |
+| [Turkish]({{ https://savethe.ai/ }}/downloads/water_posters/SavetheAI-Water-posters-TUR.pdf) | |
+| [Blank\*]({{ https://savethe.ai/ }}/downloads/water_posters/SavetheAI-Water-posters-blank.pdf) | |
+
+\**Please use the blank version to translate the posters in a language not listed here. If you would like to contribute your poster translations, please [share them back with us](https://savethe.ai/join-us/) – we will add additional language versions 
+here as they are created.) – we will add additional language versions here as they are created.*
 
 Stay tuned for more poster content coming soon and please find some instructions to help you on putting up posters and sharing them on social media [here](https://savethe.ai/join-us/). 
 
