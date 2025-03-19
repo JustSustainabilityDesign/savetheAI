@@ -29,7 +29,7 @@ The special 'limited edition' Paris postcards are available here as PDF download
 ### <a id="posters"/>Posters
 Posters on **AI's footprint** are available here as PDF downloads, in several languages, to share in your community:
 
-| <img src="/images/SAVEtheAI logo-water.png" alt="water"> | <img id="electricity" src="/images/SAVEtheAI logo-electricity.png" alt="electricity"> |
+| **Water**<br><img src="/images/SAVEtheAI logos-water-fixed size.png" alt="water"> | **Electricity**<br><img id="electricity" src="/images/SAVEtheAI logos-electricity-fixed size.png" alt="electricity"> |
 | :---: | :---: |
 | [Arabic]({{ https://savethe.ai/ }}/downloads/water_posters/SavetheAI-Water-posters-AR.pdf) | | 
 | [English]({{ https://savethe.ai/ }}/downloads/water_posters/SavetheAI-Water-posters-EN.pdf) | |
