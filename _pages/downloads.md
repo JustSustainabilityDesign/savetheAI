@@ -43,7 +43,7 @@ Posters on **AI's footprint** are available here as PDF downloads, in several la
 | [Blank\*]({{ https://savethe.ai/ }}/downloads/water_posters/SavetheAI-Water-posters-blank.pdf) | |
 
 \**Please use the blank version to translate the posters in a language not listed here. If you would like to contribute your poster translations, please [share them back with us](https://savethe.ai/join-us/) – we will add additional language versions 
-here as they are created.) – we will add additional language versions here as they are created.*
+here as they are created. – we will add additional language versions here as they are created.*
 
 Stay tuned for more poster content coming soon and please find some instructions to help you on putting up posters and sharing them on social media [here](https://savethe.ai/join-us/). 
 
