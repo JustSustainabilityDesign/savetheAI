@@ -17,6 +17,9 @@ main:
   - title: "Air"
     url: /air/
 
+  - title: "Test Page"
+    url: /test/
+
   - title: "Takeaways"
     url: /takeaways/
         
