@@ -17,9 +17,6 @@ main:
   - title: "Air"
     url: /air/
 
-  - title: "Jobs"
-    url: /jobs/
-
   - title: "Takeaways"
     url: /takeaways/
         
