@@ -35,7 +35,7 @@ Posters on **AI's footprint** are available here as PDF downloads, in several la
 | [English]({{ https://savethe.ai/ }}/downloads/water_posters/SavetheAI-Water-posters-EN.pdf) | [English]({{ https://savethe.ai/ }}/downloads/electricity_posters/SavetheAI-posters-electricity-EN.pdf)|
 | [Farsi]({{ https://savethe.ai/ }}/downloads/water_posters/SavetheAI-Water-posters-Farsi.pdf) | Coming Soon |
 | [French]({{ https://savethe.ai/ }}/downloads/water_posters/SavetheAI-Water-posters-FR.pdf) | [French]({{ https://savethe.ai/ }}/downloads/electricity_posters/SavetheAI-posters-electricity-FR.pdf) |
-| [German]({{ https://savethe.ai/ }}/downloads/water_posters/SavetheAI-Water-posters-GER.pdf) | [German]({{ https://savethe.ai/ }}/downloads/electricity_posters/SavetheAI-posters-electricity-GER.pdf)|
+| [German]({{ https://savethe.ai/ }}/downloads/water_posters/SavetheAI-Water-posters-GER.pdf) | [German]({{ https://savethe.ai/ }}/downloads/electricity_posters/SavetheAI-posters-electricity-DE.pdf)|
 | [Chinese]({{ https://savethe.ai/ }}/downloads/water_posters/SavetheAI-Water-posters-MAN.pdf) | [Chinese]({{ https://savethe.ai/ }}/downloads/electricity_posters/SavetheAI-posters-electricity-MAN.pdf)|
 | [Portuguese - Brazilian]({{ https://savethe.ai/ }}/downloads/water_posters/SavetheAI-Water-posters-PR.pdf) | [Portuguese - Brazilian]({{ https://savethe.ai/ }}/downloads/electricity_posters/SavetheAI-posters-electricity-PR.pdf)|
 | [Spanish]({{ https://savethe.ai/ }}/downloads/water_posters/SavetheAI-Water-posters-SP.pdf) | [Spanish]({{ https://savethe.ai/ }}/downloads/electricity_posters/SavetheAI-posters-electricity-SP.pdf)|
