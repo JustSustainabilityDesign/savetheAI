@@ -24,7 +24,7 @@ main:
     url: /join-us/
 
   - title: "Locations"
-    url: /locations
+    url: /locations/
 
   - title: "Downloads"
     url: /downloads/
