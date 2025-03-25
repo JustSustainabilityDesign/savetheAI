@@ -29,7 +29,7 @@ The special 'limited edition' Paris postcards are available here as PDF download
 ### <a id="posters"/>Posters
 Posters on **AI's footprint** are available here as PDF downloads, in several languages, to share in your community:
 
-| **Water**<br><img src="/images/SAVEtheAI logos-water-fixed size.png" alt="water"> | **Electricity**<br><img id="electricity" src="/images/SAVEtheAI logos-electricity-fixed size.png" alt="electricity"> | **Air**<br><img id="electricity" src="/images/SAVEtheAI logos-06.png" alt="electricity"> |
+| **Water**<br><img src="/images/SAVEtheAI logos-water-fixed size.png" alt="water"> | **Electricity**<br><img id="electricity" src="/images/SAVEtheAI logos-electricity-fixed size.png" alt="electricity"> | **Air**<br><img id="air" src="/images/SAVEtheAI logos-06.png" alt="air"> |
 | :---: | :---: | :---: |
 | [Arabic]({{ https://savethe.ai/ }}/downloads/water_posters/SavetheAI-Water-posters-AR.pdf) | Coming Soon | [Arabic]({{ https://savethe.ai/ }}/downloads/air_posters/SavetheAI-posters-air-AR.pdf) |
 | [English]({{ https://savethe.ai/ }}/downloads/water_posters/SavetheAI-Water-posters-EN.pdf) | [English]({{ https://savethe.ai/ }}/downloads/electricity_posters/SavetheAI-posters-electricity-EN.pdf) | [English]({{ https://savethe.ai/ }}/downloads/air_posters/SavetheAI-posters-air-EN.pdf)
