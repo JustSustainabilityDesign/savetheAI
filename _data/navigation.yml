@@ -17,6 +17,9 @@ main:
   - title: "Air"
     url: /air/
 
+  - title: "Coal"
+    url: /coal/
+
   - title: "Takeaways"
     url: /takeaways/
         
