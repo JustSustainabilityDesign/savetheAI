@@ -1,7 +1,7 @@
 ---
 permalink: /join-us/
 title: "Join us"
-image: '../images/general-logo.png'
+image: '../images/new_logos/SAVEtheAI logos_MAIN-150.png'
 ---
 We are now launched! Following a soft launch phase on occasion of the [Paris AI Action Summit](https://www.elysee.fr/en/sommet-pour-l-action-sur-l-ia) (6–11 February 2025).
 

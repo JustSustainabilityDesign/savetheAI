@@ -1,7 +1,7 @@
 ---
 permalink: /electricity/
 title: "AI's Electricity Footprint"
-image: '../images/electricity-logo.png'
+image: '../images/new_logos/SAVEtheAI logos_ELECTRICITY-150.png'
 ---
 Every time you use an AI chatbot like ChatGPT, it uses electricity: 
 - **2.9 Wh per search query you pose**, which is the equivalent of 6x-10x the power of a traditional Google search.[^1]

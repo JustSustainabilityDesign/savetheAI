@@ -1,6 +1,7 @@
 ---
 permalink: /coal/
 title: "AI’s Need for Coal"
+image: '../images/new_logos/SAVEtheAI logos_COAL-150.png'
 ---
 A **10kg (approx. 22lb)** bag of coal could power [^1] approximately:
 - **10,000 searches on an AI chatbot** like ChatGPT. [^2]
