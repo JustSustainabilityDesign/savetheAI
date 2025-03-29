@@ -15,10 +15,6 @@ table {
   }
 }
 
-// tr #electricity {
-//   padding-top: 37px;
-// }
-
 th {
   padding: 0.5em;
   font-weight: bold;
@@ -31,4 +27,8 @@ td {
 
 tr, td, th {
   vertical-align: middle;
+
+  #water, #electricity, #jobs {
+    width: 122px;
+  }
 }

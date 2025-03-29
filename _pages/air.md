@@ -1,7 +1,7 @@
 ---
 permalink: /air/
 title: "AI and Air Pollution"
-image: '../images/general-logo.png'
+image: '../images/new_logos/SAVEtheAI logos_AIR-150.png'
 ---
 One of AI’s many effects on the environment is its contribution to air pollution. Air pollution from AI involves **tiny toxic particles that can enter your lungs and heart** (like nitrogen oxides and sulphur oxides). They are **proven to cause heart attacks, lung cancer, and asthma**, even in small quantities [^1].
 

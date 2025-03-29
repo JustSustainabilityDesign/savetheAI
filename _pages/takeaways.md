@@ -2,7 +2,7 @@
 permalink: /takeaways/
 title: "Takeaways"
 author_profile: true
-image: '../images/general-logo.png'
+image: '../images/new_logos/SAVEtheAI logos_MAIN-150.png'
 ---
 There needs to be **full transparency** and **comprehensive reporting** on resource consumption and environmental consequences of generative AI. The currently limited standardized reporting on AI’s environmental impact makes it difficult to track and mitigate its escalating demands. AI companies must be required to publicly disclose the electricity, water, and emissions footprint of AI models, including off-site (scope-2) and supply chain (scope-3) usage in reporting. 
 
