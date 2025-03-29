@@ -28,6 +28,9 @@ td {
 tr, td, th {
   vertical-align: middle;
 
+  // initially, these logos were bigger than others causing the table to look a bit awkward
+  // so by setting the width of these to 122px, all logos will the same size
+  // (don't mind me, just putting my ux brain to use here lol)
   #water, #electricity, #jobs {
     width: 122px;
   }
