@@ -29,5 +29,6 @@ Location: Arcisstraße 17, 80333 Munich, Germany
 Location: University of Sydney
 Location: RWTH Aachen University, Aachen, Germany
 Location: Wageningen, NL
+Location: Brighton, UK
 Special Location: Theatre de la Concorde, Paris, France, Event Title: Anti-Summit of AI
 Special Location: Grand Palais, Paris, France, Event Title: Artificial Intelligence Action Summit
