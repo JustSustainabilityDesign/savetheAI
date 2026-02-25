@@ -3,7 +3,8 @@ permalink: /join-us/
 title: "Join us"
 image: '../images/new_logos/SAVEtheAI logos_MAIN-150.png'
 ---
-We are now launched! Following a soft launch phase on occasion of the [Paris AI Action Summit](https://www.elysee.fr/en/sommet-pour-l-action-sur-l-ia) (6–11 February 2025).
+
+Save the AI is an initiative of the [Just Sustainability Design Lab](https://justsustainabilitydesign.org/). It first launched at the [Paris AI Action Summit in 2025](https://www.elysee.fr/en/sommet-pour-l-action-sur-l-ia) and has since grown into a campaign translated into [10 languages](https://savethe.ai/downloads/). **We’re now preparing the next phase of Save the AI. Stay tuned.**
 
 **Please help spread the word**: Snap a photo of any of our posters and postcards you encounter and share it. Use #SavetheAI and tag us on [Bluesky](https://bsky.app/profile/savetheai.bsky.social), [Mastodon](https://mastodon.social/@savetheai) and [Instagram](https://www.instagram.com/savetheai/) with @SavetheAI. We have created a share map [here](https://savethe.ai/locations).
 
