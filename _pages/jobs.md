@@ -63,7 +63,7 @@ You also (probably) do data work for free. You know those “Are you a robot?”
 
 ## Thankfully, workers are uniting to challenge the platforms that exploit them
 
-Worker Mobilizations around AI in Arts, Culture, and Media. From Hollywood writers and game performers in the US to voice actors in Brazil, cultural workers around the world are striking, protesting, running campaigns and mobilizing to contest the use of AI in the workplace. This tracker published by Creative Labour and Critical Futures aims to document strikes, protests, campaigns and mobilizations by workers in the arts, culture and media. [^18]
+[**Worker Mobilizations around AI in Arts, Culture, and Media.**]9https://creativelabourcriticalfutures.ca/resource-files/tracker-ai-mobilization-clcf.html) From Hollywood writers and game performers in the US to voice actors in Brazil, cultural workers around the world are striking, protesting, running campaigns and mobilizing to contest the use of AI in the workplace. This tracker published by [Creative Labour and Critical Futures]9https://creativelabourcriticalfutures.ca/) aims to document strikes, protests, campaigns and mobilizations by workers in the arts, culture and media. [^18]
 
 [**Data Workers Inquiry**](https://data-workers.org/) does worker-led research, identifying urgent issues, formulating their own questions, and telling their stories in zines, documentaries, comics, essays, podcasts, and animations [^19].
 
