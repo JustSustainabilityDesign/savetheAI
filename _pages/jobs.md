@@ -15,6 +15,7 @@ New jobs such as quality controllers, prompt engineers, and linguistics experts 
 
 The impact of AI on jobs and the idea of "work" is a complex issue linked to other social and economic changes. Here, we summarize a selection of research on this topic.
 
+<center>[**Download the Posters**](https://savethe.ai/downloads/)</center>
 
 ## More work, until it takes over
 
