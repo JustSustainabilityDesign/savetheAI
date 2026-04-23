@@ -10,3 +10,5 @@ group :jekyll_plugins do
 end
 
 gem 'github-pages'
+
+gem "tzinfo-data", "~> 1.2026"
