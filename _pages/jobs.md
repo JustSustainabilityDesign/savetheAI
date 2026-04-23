@@ -15,7 +15,7 @@ New jobs such as quality controllers, prompt engineers, and linguistics experts 
 
 The impact of AI on jobs and the idea of "work" is a complex issue linked to other social and economic changes. Here, we summarize a selection of research on this topic.
 
-### [**Download the Posters**](https://savethe.ai/downloads/)
+### [**Download the Save the AI Posters**](https://savethe.ai/downloads/)
 
 ## More work, until it takes over
 
@@ -80,7 +80,7 @@ You also (probably) do data work for free. You know those “Are you a robot?”
 ### [**Savethe.ai/jobs**](https://savethe.ai/jobs/) is an initiative of the [Just Sustainability Design Lab](https://justsustainabilitydesign.org/) in Collaboration with [Digilabour](https://digilabour.com.br/) ISCHOOL, UNIVERSITY OF TORONTO  
 
 
-### [**Download the Posters**](https://savethe.ai/downloads/)
+### [**Download the Save the AI Posters**](https://savethe.ai/downloads/)
 
 
 ## References
