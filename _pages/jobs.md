@@ -7,9 +7,9 @@ image: '../images/new_logos/SAVEtheAI logos_JOBS-150.png'
 
 ### AI is set to profoundly impact how people's work is organized, but not in the way AI marketing presents:
 
-Writers and graphic designers are already experiencing falls in job opportunities, as employers choose AI text and image generation instead. [^1]
+Writers and graphic designers are already experiencing falls in job opportunities, as employers choose AI text and image generation instead [^1]. 
 
-Typists, travel consultants, customer service representatives, and other administrative workers are most likely to lose their jobs to AI. [^2]
+Typists, travel consultants, customer service representatives, and other administrative workers are most likely to lose their jobs to AI [^2]. 
 
 New jobs such as quality controllers, prompt engineers, and linguistics experts are proposed as alternatives, [^3] but without public and private sector investment in re-training, transition into these new jobs will be difficult [^4].
 
@@ -21,27 +21,27 @@ The impact of AI on jobs and the idea of "work" is a complex issue linked to oth
 
 ### Despite all the promises that automation would make us work less, in reality we are working more [^5].
 
-Using generative AI reduces people’s critical thinking skills. [^6] Work expands and workers take on tasks outside their roles, AI blurs boundaries between work and non-work. Tasks slip into breaks and evenings reducing time for rest. [^5]
+Using generative AI reduces people’s critical thinking skills [^6]. Work expands and workers take on tasks outside their roles, AI blurs boundaries between work and non-work. Tasks slip into breaks and evenings reducing time for rest [^5]. 
 
-AI management systems spy on workers; assigning them work and scoring their performance. [^2] People are being treated like machines, by machines, and can’t challenge the AI’s decisions. [^7] absorbing responsibilities that might previously have required additional staff.
+AI management systems spy on workers; assigning them work and scoring their performance. [^2] People are being treated like machines, by machines, and can’t challenge the AI’s decisions, while also absorbing responsibilities that might previously have required additional staff [^7].
 
-The productivity surge promised by Ai marketing gives way to lower-quality work, turnover, and other problems, which in turn lead to cognitive fatigue, burnout, and weakened decision-making. [^5]
+The productivity surge promised by AI marketing gives way to lower-quality work, turnover, and other problems, which in turn lead to cognitive fatigue, burnout, and weakened decision-making [^5]. 
 
 ## AI in Recruitment
 
 ### AI is also being used to score Resumés, CVs, and applications in recruitment processes.
 
-41% of companies were using AI in recruitment and human resources as of late 2023, according to an IBM survey of international IT professionals. [^8]
+41% of companies were using AI in recruitment and human resources as of late 2023, according to an IBM survey of international IT professionals [^8]. 
 
-AI algorithms tend to favor people from social groups who are already over-represented in the workforce. Therefore, AI makes discrimination worse. [^9]
+AI algorithms tend to favor people from social groups who are already over-represented in the workforce. Therefore, AI makes discrimination worse [^9]. 
 
-Amazon, for example, had to ditch an AI recruitment tool that was biased against women. [^10]
+Amazon, for example, had to ditch an AI recruitment tool that was biased against women [^10]. 
 
 ## AI is neither Artificial nor Intelligent
 
 ### Not Artificial
 
-AI relies upon vast amounts of “data work” undertaken by humans to train AI models. This data work involves things such as filtering videos, labelling objects in images, and transcribing documents. [^11]
+AI relies upon vast amounts of “data work” undertaken by humans to train AI models. This data work involves things such as filtering videos, labelling objects in images, and transcribing documents [^11]. 
 
 ### Not Intelligent
 
@@ -57,27 +57,27 @@ To be caught, such mistakes rely on human intervention, however the implementati
 
 ### AI models need massive databases of human knowledge to train them. These databases are put together by unpaid, or poorly paid and precariously employed data workers.
 
-Data workers are often freelance, earning around only US$1 per hour or employed on contracts for less than a week. They live in constant fear of losing their jobs. Their employers force them to work over 9 hours per day and refuse to pay overtime, and they feel powerless in responding. [^17]
+Data workers are often freelance, earning around only US$1 per hour or employed on contracts for less than a week. They live in constant fear of losing their jobs. Their employers force them to work over 9 hours per day and refuse to pay overtime, and they feel powerless in responding [^17]. 
 
-You also (probably) do data work for free. You know those “Are you a robot?” reCAPTCHA boxes that ask you to copy out words or identify images? They use your responses to teach AI for Google’s book digitization, image recognition, and driverless cars. [^11]
+You also (probably) do data work for free. You know those “Are you a robot?” reCAPTCHA boxes that ask you to copy out words or identify images? They use your responses to teach AI for Google’s book digitization, image recognition, and driverless cars [^11]. 
 
 
 ## Thankfully, workers are uniting to challenge the platforms that exploit them
 
-[**Worker Mobilizations around AI in Arts, Culture, and Media.**](https://creativelabourcriticalfutures.ca/resource-files/tracker-ai-mobilization-clcf.html) From Hollywood writers and game performers in the US to voice actors in Brazil, cultural workers around the world are striking, protesting, running campaigns and mobilizing to contest the use of AI in the workplace. This tracker published by [Creative Labour and Critical Futures](https://creativelabourcriticalfutures.ca/) aims to document strikes, protests, campaigns and mobilizations by workers in the arts, culture and media. [^18]
+[**Worker Mobilizations around AI in Arts, Culture, and Media.**](https://creativelabourcriticalfutures.ca/resource-files/tracker-ai-mobilization-clcf.html) From Hollywood writers and game performers in the US to voice actors in Brazil, cultural workers around the world are striking, protesting, running campaigns and mobilizing to contest the use of AI in the workplace. This tracker published by [Creative Labour and Critical Futures](https://creativelabourcriticalfutures.ca/) aims to document strikes, protests, campaigns and mobilizations by workers in the arts, culture and media [^18]. 
 
 [**Data Workers Inquiry**](https://data-workers.org/) does worker-led research, identifying urgent issues, formulating their own questions, and telling their stories in zines, documentaries, comics, essays, podcasts, and animations [^19].
 
-[**Turkopticon**](https://turkopticon.net/) is a worker-led organization supporting Amazon’s freelance data workers. They help workers resolve disputes with Amazon and clients, allow workers to review clients, and provide a space for general questions and concerns. [^20]
+[**Turkopticon**](https://turkopticon.net/) is a worker-led organization supporting Amazon’s freelance data workers. They help workers resolve disputes with Amazon and clients, allow workers to review clients, and provide a space for general questions and concerns [^20]. 
 
-[**Fairwork**](https://fair.work/en/fw/principles/ai-principles/) conducts action research and produces AI Principles to evaluate the working conditions of data workers. [^21] This research is used to advocate for policy changes to improve protections for data workers. [^22]
+[**Fairwork**](https://fair.work/en/fw/principles/ai-principles/) conducts action research and produces AI Principles to evaluate the working conditions of data workers [^21].  This research is used to advocate for policy changes to improve protections for data workers [^22]. 
 
-[**African Tech Workers Rising**](https://uniglobalunion.org/about/sectors/ict-related-services/african-tech-workers-rising/) is working to transform the data supply chain by ensuring that workers’ voices shape the new world of work. That includes a binding sector-wide agreement committing tech companies to living wages, safe jobs and the right to organize. [^23]
+[**African Tech Workers Rising**](https://uniglobalunion.org/about/sectors/ict-related-services/african-tech-workers-rising/) is working to transform the data supply chain by ensuring that workers’ voices shape the new world of work. That includes a binding sector-wide agreement committing tech companies to living wages, safe jobs and the right to organize [^23]. 
 
-[**The Data Labelers Association (DLA)**](https://datalabelers.org/) advocates for fair treatment, better conditions, and recognition for data labelers worldwide, while pushing for workers to be at the center of policy and regulatory formulation [^24]
+[**The Data Labelers Association (DLA)**](https://datalabelers.org/) advocates for fair treatment, better conditions, and recognition for data labelers worldwide, while pushing for workers to be at the center of policy and regulatory formulation [^24].
 
 
-### [**Savethe.ai/jobs**](https://savethe.ai/jobs/) is an initiative of the [Just Sustainability Design Lab](https://justsustainabilitydesign.org/) in Collaboration with [Digilabour](https://digilabour.com.br/) ISCHOOL, UNIVERSITY OF TORONTO  
+### [**Savethe.ai/jobs**](https://savethe.ai/jobs/) is an initiative of the [Just Sustainability Design Lab](https://justsustainabilitydesign.org/) in Collaboration with [Digilabour](https://digilabour.com.br/), Universtity of Toronto.  
 
 
 ### [**Download the Save the AI Posters**](https://savethe.ai/downloads/)
