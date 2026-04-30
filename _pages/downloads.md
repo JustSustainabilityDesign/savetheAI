@@ -22,6 +22,19 @@ You are free to:
 
 ## Downloads
 
+### <a id="jobs"/>savethe.ai/jobs
+
+Download and share four new posters from the savethe.ai/jobs campaign
+
+# Don’t apply to that job! AI needs it more than you do. [PDF]({{ https://savethe.ai/ }}/downloads/jobs_posters/SavetheAI_posters_jobs_1.pdf) 
+
+# Stop complaining. AI works harder than you do. [PDF]({{ https://savethe.ai/ }}/downloads/jobs_posters/SavetheAI_posters_jobs_2.pdf)
+
+# Why hire a team? AI can do it all. [PDF]({{ https://savethe.ai/ }}/downloads/jobs_posters/SavetheAI_posters_jobs_3.pdf) 
+
+# You trained me to do your job. Why aren’t you relaxing yet? [PDF]({{ https://savethe.ai/ }}/downloads/jobs_posters/SavetheAI_posters_jobs_4.pdf) 
+
+
 ### <a id="postcards"/>Postcards
 
 The special 'limited edition' Paris postcards are available here as PDF downloads:
