@@ -24,7 +24,7 @@ You are free to:
 
 ### <a id="jobs"/>savethe.ai/jobs
 
-Download and share four new posters from the savethe.ai/jobs campaign
+Download and share four new posters from the [savethe.ai/jobs](https://savethe.ai/jobs/) campaign
 
 **Don’t apply to that job! AI needs it more than you do.** [PDF]({{ https://savethe.ai/ }}/downloads/jobs_posters/SavetheAI_posters_jobs_1.pdf) 
 
