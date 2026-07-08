@@ -25,8 +25,7 @@ Location: Salzburg, AT
 Location: Vienna, AT
 Location: Tehran, IR
 Location: Istanbul, TR
-Location: Daejeon, South Korea
-Location: Wadern, Germany
-Location: Warwick, England
-Location: London, England
-Location: Sussex, England
+Location: Daejeon, KR
+Location: Warwick, UK
+Location: London, UK
+Location: Sussex, UK
