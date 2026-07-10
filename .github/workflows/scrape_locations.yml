@@ -5,6 +5,7 @@ on:
     paths:
       - 'locations.md'
       - 'world_map.ipynb'
+  workflow_dispatch:
 
 jobs:
   build:
@@ -20,12 +21,11 @@ jobs:
 
     - name: Install dependencies
       run: |
-        pip install jupyter pandas requests beautifulsoup4 geopy  # Add other dependencies as needed
-        pip install getorg --upgrade
+        pip install geopy folium # Add other dependencies as needed
 
-    - name: Run Jupyter Notebook
+    - name: Generate the map
       run: |
-        jupyter nbconvert --to notebook --execute world_map.ipynb --output world_map_out.ipynb
+        python world_map.py
 
     - name: Commit changes
       run: |
