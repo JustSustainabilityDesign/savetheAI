@@ -33,6 +33,26 @@ jobs:
     steps:
       - name: Checkout
         uses: actions/checkout@v4
+      - name: Check if the files related to the map changed
+        id: changed-map-files
+        uses: tj-actions/changed-files@9426d40962ed5378910ee2e21d5f8c6fcbf2dd96 # v47.0.6
+        with:
+          files: |
+            locations.md
+            world_map.py
+      - name: Set up Python to generate location_map.html
+        if: steps.changed-map-files.outputs.any_changed == 'true'
+        uses: actions/setup-python@v2
+        with:
+          python-version: '3.9'  # Specify the Python version you need
+      - name: Install Python dependencies to generate location_map.html
+        if: steps.changed-map-files.outputs.any_changed == 'true'
+        run: |
+          pip install geopy folium # Add other dependencies as needed
+      - name: Generate location_map.html
+        if: steps.changed-map-files.outputs.any_changed == 'true'
+        run: |
+          python world_map.py
       - name: Setup Ruby
         # https://github.com/ruby/setup-ruby/releases/tag/v1.207.0
         uses: ruby/setup-ruby@4a9ddd6f338a97768b8006bf671dfbad383215f4
