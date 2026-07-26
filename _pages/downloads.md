@@ -42,6 +42,10 @@ The special 'limited edition' Paris postcards are available here as PDF download
 - ['L'eau or AI' English cover](https://github.com/user-attachments/files/18727189/SavetheAI-postcard-v1.5b.pdf)
 - ['L'eau ou l'IA?' French cover](https://github.com/user-attachments/files/18727201/SavetheAI-postcard-v1.5a.pdf)
 
+### <a id="spPosters"/>Special Edition poster
+The special edition Daejeon poster, featured at DH2026, is available here as a PDF download: [https://doi.org/10.5281/zenodo.21418930](https://doi.org/10.5281/zenodo.21418930)
+
+
 ### <a id="posters"/>Posters
 
 Posters on **AI's footprint** are available here as PDF downloads, in several languages, to share in your community:
