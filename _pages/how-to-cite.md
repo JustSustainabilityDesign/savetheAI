@@ -13,9 +13,10 @@ _Save the AI_ is a research-based creative campaign exploring the environmental 
 
 ### Humour as Resistance: Visceralizing the Environmental and Social Impact of AI through Humour-based Creative Practices
 
+
 Han Qiao, Rowan O.A. Munson, Nadia Mariyan Smith, Eshta Bhardwaj, and Christoph Becker. 2026. **Humour as Resistance: Visceralizing the Environmental and Social Impact of AI through Humour-based Creative Practices.** In _Proceedings of the 2026 Conference on Creativity and Cognition (C&C '26)_. Association for Computing Machinery, New York, NY, USA, 564–578. [https://doi.org/10.1145/3803784.3807546](https://doi.org/10.1145/3803784.3807546)
 
-## Workshop Contributions
+## Other Contributions
 
 ### Will You Help Us #SaveTheAI?
 
