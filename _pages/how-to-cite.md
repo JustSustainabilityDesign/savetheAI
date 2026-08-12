@@ -7,7 +7,7 @@ image: '../images/new_logos/SAVEtheAI logos_MAIN-150.png'
 
 _Save the AI_ is a research-based creative campaign exploring the environmental and social impacts of generative AI through humour, satire, and participatory creative practices.
 
-If you reference _Save the AI_ in academic work, research, teaching, or other publications, please cite the publication that is most relevant to the aspect of the campaign you are discussing.
+If you reference _Save the AI_ in academic work, research, teaching, or other publications, please cite us.
 
 ## Research
 
