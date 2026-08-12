@@ -7,9 +7,9 @@ image: '../images/new_logos/SAVEtheAI logos_MAIN-150.png'
 
 _Save the AI_ is a research-based creative campaign exploring the environmental and social impacts of generative AI through humour, satire, and participatory creative practices.
 
-If you reference _Save the AI_ in academic work, research, teaching, or other publications, please cite us.
+**If you are referencing the _Save the AI_ campaign, please cite the research publication below.** This paper provides the most complete account of the campaign, its methods, and its research findings.
 
-## Research
+## Recommended Citation
 
 ### Humour as Resistance: Visceralizing the Environmental and Social Impact of AI through Humour-based Creative Practices
 
