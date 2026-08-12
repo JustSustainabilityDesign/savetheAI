@@ -19,7 +19,7 @@ Han Qiao, Rowan O.A. Munson, Nadia Mariyan Smith, Eshta Bhardwaj, and Christoph 
 
 ### Will You Help Us #SaveTheAI?
 
-Landau, V. G. D., Bhardwaj, E., Bonfils, N., Iqbal, M., Munson, R. O. A., Qiao, H., Smith, N. M., Velasquez, C.& Becker, C. (2026). **Will You Help Us #SaveTheAI?** [Graphic]. Zenodo. DH2026 "Engagement", Daejeon. [https://doi.org/10.5281/zenodo.21418931](https://doi.org/10.5281/zenodo.21418931)
+Landau, V. G. D., Bhardwaj, E., Bonfils, N., Iqbal, M., Munson, R. O. A., Qiao, H., Smith, N. M., Velasquez, C.& Becker, C. (2026). **Will You Help Us #SaveTheAI?** [Graphic]. DH2026 "Engagement", Daejeon, South Korea. [https://doi.org/10.5281/zenodo.21418931](https://doi.org/10.5281/zenodo.21418931)
 
 ### Humour as Resistance: Creative Approaches to Data Center Accountability
 
