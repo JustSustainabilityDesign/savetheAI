@@ -25,9 +25,6 @@ main:
 
   - title: "Takeaways"
     url: /takeaways/
-        
-  - title: "Join us"
-    url: /join-us/
 
   - title: "Locations"
     url: /locations
@@ -37,3 +34,6 @@ main:
 
   - title: "How to Cite Us"
     url: /how-to-cite/
+
+  - title: "Join us"
+    url: /join-us/
