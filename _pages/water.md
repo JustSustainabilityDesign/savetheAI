@@ -66,3 +66,6 @@ Supply Chain Water for Manufacturing (Scope 3)
 [^6]: Microsoft. Environmental Sustainability Report. (https://www.microsoft.com/en-us/corporate-responsibility/sustainability/report), 2024.
 
 [^7]: Islam, M., Ahmed, K., Xu, H., Tran, N., Quan, G., & Ren, S. (2016). Exploiting Spatio-Temporal Diversity for Water Saving in Geo-Distributed Data Centers. IEEE Transactions on Cloud Computing, PP, 1–1. (https://doi.org/10.1109/TCC.2016.2535201) 
+
+
+**Note on Data and Research:** The research, data, and analysis presented on this page reflect information available up to early 2025. As new studies continue to emerge, some information may no longer reflect the current state of knowledge.
