@@ -17,5 +17,8 @@ It’s important to remember that while the water or electricity consumption per
 ## What's Next?
 Head over to the [Green Screen Coalition](https://greenscreen.network/en/blog/within-bounds-limiting-ai-environmental-impact/) to learn more about a current initiative to limit AI's climate impacts. 
 
+**Note on Data and Research:** The research, data, and analysis presented on this page reflect information available up to early 2025. As new studies continue to emerge, some information may no longer reflect the current state of knowledge.
+
+
 ## References
 [^1]: Islam, M., Ahmed, K., Xu, H., Tran, N., Quan, G., & Ren, S. (2016). Exploiting Spatio-Temporal Diversity for Water Saving in Geo-Distributed Data Centers. IEEE Transactions on Cloud Computing, PP, 1–1. https://doi.org/10.1109/TCC.2016.2535201 

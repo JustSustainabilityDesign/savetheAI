@@ -24,6 +24,10 @@ The rapid expansion of AI has led to a surge in data centre construction and ele
 
 **For more insights, check out our [Takeaways](https://savethe.ai/takeaways/) page.**
 
+
+**Note on Data and Research:** The research, data, and analysis presented on this page reflect information available up to early 2025. As new studies continue to emerge, some information may no longer reflect the current state of knowledge.
+
+
 ## References
 [^1]: Luccioni, S., Trevelin, B., & Mitchell, M. (2024, September 3). The Environmental Impacts of AI -- Primer. Hugging Face. Retrieved September 5, 2024, from https://huggingface.co/blog/sasha/ai-environment-primer 
 

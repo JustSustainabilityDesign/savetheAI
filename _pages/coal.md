@@ -35,6 +35,10 @@ Coal is a particularly harmful fossil fuel for a few reasons:
     - **Mountaintop mining** entails exploding the tops of mountains, causing rock and soil to runoff into river valleys. This **closes off sources of freshwater**, which are already scarce [^20].
     - River valleys that fill with runoff from coal mining have increased **salinity, metal concentrations**, and most importantly, are **highly acidic to the point of being able to burn human skin**. This water pollution is toxic to wildlife and presents health risks to nearby communities [^20].
 
+**Note on Data and Research:** The research, data, and analysis presented on this page reflect information available up to early 2025. As new studies continue to emerge, some information may no longer reflect the current state of knowledge.
+
+
+
 ## References
 [^1]: Fu, C., Anantharaman, R., Jordal, K., & Gundersen, T. (2015). Thermal efficiency of coal-fired power plants: From theoretical to practical assessments. Energy Conversion and Management, 105, 530–544. https://doi.org/10.1016/j.enconman.2015.08.019
 

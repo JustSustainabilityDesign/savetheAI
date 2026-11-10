@@ -27,6 +27,10 @@ AI companies contribute towards air pollution either directly, or indirectly, in
 2. **Electricity from Fossil Fuels:** Rising energy demands of AI are **postponing the closure of coal-fired power plants** and boosting fossil fuel use. Virginia Electric and Power Company, which supplies the world’s largest concentration of AI data centers, will now rely on coal until at least 2039 and is expanding its gas-fired plants to meet AI data center energy needs. [^7]
 3. **Computer Chips:** AI systems need large quantities of computer chips and circuit boards. Production of computer chips generates toxic materials and harmful air emissions. In 2023-2024, a single computer chip factory is estimated to have a public health impact of US$26-39 million. [^3]
 
+
+**Note on Data and Research:** The research, data, and analysis presented on this page reflect information available up to early 2025. As new studies continue to emerge, some information may no longer reflect the current state of knowledge.
+
+
 ## References
 [^1]: U.S. EPA (2024, December 12). Research on health effects from air pollution. https://www.epa.gov/air-research/research-health-effects-air-pollution
 

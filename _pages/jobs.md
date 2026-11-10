@@ -82,6 +82,8 @@ You also (probably) do data work for free. You know those “Are you a robot?”
 
 ### [**Download the Save the AI Posters**](https://savethe.ai/downloads/)
 
+**Note on Data and Research:** The research, data, and analysis presented on this page reflect information available up to early 2026. As new studies continue to emerge, some information may no longer reflect the current state of knowledge.
+
 
 ## References
 
