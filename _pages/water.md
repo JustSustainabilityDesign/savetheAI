@@ -52,6 +52,12 @@ Supply Chain Water for Manufacturing (Scope 3)
 **To print your own postcards for distribution, click [here](https://savethe.ai/downloads/#postcards).**
 
 **To download and print your own posters, check out our [Downloads](https://savethe.ai/downloads/#posters) page.**
+
+
+
+**Note on Data and Research:** The research, data, and analysis presented on this page reflect information available up to early 2025. As new studies continue to emerge, some information may no longer reflect the current state of knowledge.
+
+
 ## References
 [^1]: Verma, P., & Tan, S. (2024, September 18). A bottle of water per email: The hidden environmental costs of using AI chatbots. *Washington Post.* (https://archive.is/8xeFT)
 
@@ -68,4 +74,4 @@ Supply Chain Water for Manufacturing (Scope 3)
 [^7]: Islam, M., Ahmed, K., Xu, H., Tran, N., Quan, G., & Ren, S. (2016). Exploiting Spatio-Temporal Diversity for Water Saving in Geo-Distributed Data Centers. IEEE Transactions on Cloud Computing, PP, 1–1. (https://doi.org/10.1109/TCC.2016.2535201) 
 
 
-**Note on Data and Research:** The research, data, and analysis presented on this page reflect information available up to early 2025. As new studies continue to emerge, some information may no longer reflect the current state of knowledge.
+
